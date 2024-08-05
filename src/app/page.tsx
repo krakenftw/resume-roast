@@ -33,7 +33,7 @@ export default function Home() {
   };
 
   return (
-    <main className="flex min-h-screen w-screen flex-col items-center justify-between p-24 md:px-[30%]">
+    <main className="flex min-h-screen w-screen flex-col items-center justify-between py-24 px-4 md:px-[30%]">
       <div className="w-full gap-6 flex flex-col items-center justify-center">
         <h1 className="text-3xl font-bold">roast your resume!</h1>
         <input
